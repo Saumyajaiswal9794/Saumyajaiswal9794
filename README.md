@@ -135,15 +135,7 @@ Social-impact web app combating child labor — real-time Mapbox tracking, simul
 
 ---
 
-### 🐍 Contribution Graph
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Saumyajaiswal9794/Saumyajaiswal9794/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</div>
-
-![](https://github.com/Saumyajaiswal9794/Saumyajaiswal9794/blob/output/github-contribution-grid-snake.svg)
-
----
 
 <div align="center">
 
