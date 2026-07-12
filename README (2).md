@@ -130,7 +130,7 @@ Social-impact web app combating child labor — real-time Mapbox tracking, simul
 | 🥇 Winner | Hack On Hills 7.0 (All-Girls Team) | National |
 
 **Positions of Responsibility**
-- **Executive Member**, Google Developer Groups (GDG) — NIT Hamirpur — led workshops for 500+ students, boosting community engagement by 40%
+- **Executive Member**, Google Developer Groups (GDG) — NIT Hamirpur — led workshops,events and worked under several projects
 - **Volunteer, Technical Team**, Robotics Society — NIT Hamirpur — optimized hardware-software integration for competitive robotics
 
 ---
