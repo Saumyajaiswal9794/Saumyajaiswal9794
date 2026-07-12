@@ -141,7 +141,7 @@ Social-impact web app combating child labor — real-time Mapbox tracking, simul
 <img src="https://raw.githubusercontent.com/Saumyajaiswal9794/Saumyajaiswal9794/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
 
-> ⚙️ To activate this: create a repo named `Saumyajaiswal9794` (same as your username), then add the [Platane/snk](https://github.com/Platane/snk) GitHub Action workflow to it.
+![](https://github.com/Saumyajaiswal9794/Saumyajaiswal9794/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
